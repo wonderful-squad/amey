@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-title: "algorithm: leetcode题号-leetcode题目标题"
+title: "[algorithm: leetcode题号-leetcode题目标题]: "
 labels: ["algorithm"]
 body:
   - type: markdown
