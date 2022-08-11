@@ -2,12 +2,15 @@
 name: leetcode刷题专用
 about: leetcode刷题点击此issue开始算法之旅
 title: ''
-labels: ''
+labels: algorithm
 assignees: ''
 
 ---
 
-name: leetcode题号: 题目标题，如-->1: 两数之和
-description: 可以把题目的内容要求粘贴到这里
-title: algorithm
+title: "algorithm: leetcode题号-leetcode题目标题"
 labels: ["algorithm"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        可以把leetcode题目的内容和描述粘贴在这里，也可以挂一个直达leetcode题目的链接
